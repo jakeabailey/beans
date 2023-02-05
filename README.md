@@ -6,4 +6,4 @@ This is my first neural network outside of the traditional mnist 'hello world' e
 
 As seen in the file 'ai.ipynb', the accuracy isn't great (79%) and, in my testing, fluctuates greatly with consecutive runs.
 
-I imagine that this is greatly linked to the small size of my dataset (45 hollow images, 45 full images).
+I imagine that this is largely linked to the small size of my dataset (45 hollow images, 45 full images).
